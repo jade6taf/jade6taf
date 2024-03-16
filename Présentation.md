@@ -1,4 +1,4 @@
-- 👋 Bonjour, je suis @jade6taf !
+- 👋 Bonjour, je suis @jade !
 - 👀 J'aime le rugby, le développement et la cuisine.
 - 🌱 Je suis en première année de bachelor informatique à l'ESGI
 - 💞️ Je suis à la recherche d'une alternance pour ma seconde année, en tant que développeur junior.
